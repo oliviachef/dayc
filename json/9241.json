@@ -1,0 +1,39 @@
+{
+  "name": "Doge Ape Yacht Club #9241",
+  "description": "10,000 uniqu Doge Apes on the Dogechain blockchain.",
+  "image": "ipfs://bafybeib66nyby767evpqrnpen4u7jeflavtmrhcdkazptyrxaxhlt4qyaa/9241.png",
+  "dna": "850b753e1f83cdff3310cd956bbe43a58c2f387e",
+  "edition": 9241,
+  "date": 1661229116236,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sherbet "
+    },
+    {
+      "trait_type": "Base",
+      "value": "Burgundy "
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Dogechain shirt white "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored "
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3d glasses "
+    },
+    {
+      "trait_type": "Headware",
+      "value": "Bunny ears "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored pipe unshaven "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

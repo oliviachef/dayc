@@ -1,0 +1,39 @@
+{
+  "name": "Doge Ape Yacht Club #4020",
+  "description": "10,000 uniqu Doge Apes on the Dogechain blockchain.",
+  "image": "ipfs://bafybeib66nyby767evpqrnpen4u7jeflavtmrhcdkazptyrxaxhlt4qyaa/4020.png",
+  "dna": "8074c29cfd2ce14c6f345e05ea72a3c1e254b300",
+  "edition": 4020,
+  "date": 1661226559420,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green fade "
+    },
+    {
+      "trait_type": "Base",
+      "value": "Black "
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Manchester United "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored "
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Raybans "
+    },
+    {
+      "trait_type": "Headware",
+      "value": "Boho "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored Dagger "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
